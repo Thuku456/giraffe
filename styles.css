@@ -1,0 +1,14 @@
+*{
+    background-color: grey;
+}
+h1{
+    color: rgb(241, 122, 11);
+}
+h2{
+    color: brown;
+}
+p{
+    color: cyan;
+    font-style: italic;
+    font-size: 20px;
+}
